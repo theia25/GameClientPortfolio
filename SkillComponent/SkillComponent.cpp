@@ -263,3 +263,4 @@ void USkillComponent::UpdateSurvivorInfo(AActor* _Survivor)
 		XraySkill->Client_SetSurvivorMeshUpdate(_Survivor);
 	}
 }
+
